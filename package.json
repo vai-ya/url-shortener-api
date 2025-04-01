@@ -1,0 +1,24 @@
+{
+  "name": "shorturlservice",
+  "version": "1.0.0",
+  "description": "an api built from scratch to generate valid short urls",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "author": "vaibhavi yadav",
+  "license": "ISC",
+  "dependencies": {
+    "config": "^3.3.12",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^5.1.0",
+    "mongoose": "^8.13.1",
+    "shortid": "^2.2.17",
+    "valid-url": "^1.0.9"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}

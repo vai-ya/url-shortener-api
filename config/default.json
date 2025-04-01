@@ -1,0 +1,4 @@
+{
+    "mongoURI" : "mongodb+srv://vai_ya:shorturlapidatabase@shorturl.om9zgyk.mongodb.net/?retryWrites=true&w=majority&appName=shorturl",
+    "baseUrl" : "http://localhost:5002"
+}
